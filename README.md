@@ -341,6 +341,19 @@ flutter pub get
 
 ---
 
+## Screenshots
+
+### Home Screen
+![Home Screen](assets/screenshots/home_screen.jpg)
+
+### Currency Conversion
+![Home Screen](assets/screenshots/home_screen_first.jpg)
+
+### Settings Screen
+![Settings Screen](assets/screenshots/setting_screen.jpg)
+
+---
+
 ## Author
 
 Developed by **Omkar Shinde**
